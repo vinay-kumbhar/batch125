@@ -50,6 +50,7 @@ public class DateDifferentExample {
 	                * float daysBetween = 
 	                *         TimeUnit.DAYS.convert(difference, TimeUnit.MILLISECONDS)
 	                */
+		       System.out.println("123 batch");
 		       System.out.println("Number of Days between dates: "+daysBetween);
 		 } catch (Exception e) {
 		       e.printStackTrace();
